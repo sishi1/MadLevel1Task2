@@ -7,4 +7,6 @@
     <string name="T_Label">T</string>
     <string name="F_Label">F</string>
     <string name="Button_Submit">Submit</string>
+    <string name="Correct">Correct</string>
+    <string name="Incorrect">Incorrect</string>
 </resources>
