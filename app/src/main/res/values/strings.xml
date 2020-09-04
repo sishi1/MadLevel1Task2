@@ -9,4 +9,6 @@
     <string name="Button_Submit">Submit</string>
     <string name="Correct">Correct</string>
     <string name="Incorrect">Incorrect</string>
+    <string name="TorF">Fill in only T or F</string>
+    <string name="Hint_Label">T/F</string>
 </resources>
